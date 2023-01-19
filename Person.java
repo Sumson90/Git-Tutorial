@@ -7,6 +7,6 @@ public class Person {
         int n =4;
         int p =4;
         int m =4;
-        int p =4;
+        int ca=4;
     }
 }
