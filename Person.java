@@ -6,5 +6,6 @@ public class Person {
         int b =4;
         int n =4;
         int m =4;
+        int p =4;
     }
 }
